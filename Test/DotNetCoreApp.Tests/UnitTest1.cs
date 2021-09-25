@@ -11,7 +11,7 @@ namespace DotNetCoreApp.Tests
         public void Test1()
         {
             var result = obj.Get(101);
-            Assert.Equal("Vivek Gupta",result);
+            Assert.Equal("Vivek Gupta123",result);
 
             
         }
